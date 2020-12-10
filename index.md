@@ -1,6 +1,6 @@
 ## Welcome to the personal website of Harrison Xu.
 
-Here will display some of my works: [WebDev Playground](harrison-xu.github.io/webdev-playground).
+Here will display some of my works: [WebDev Playground](https://harrisonxu.work/webdev-playground/html.html).
 
 ![my avatar](https://avatars0.githubusercontent.com/u/42680260)
 
