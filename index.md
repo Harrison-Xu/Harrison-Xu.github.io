@@ -13,3 +13,10 @@ Here will display some of my works: [WebDev Playground](https://harrisonxu.work/
 
 
 ![my photograph](https://pbs.twimg.com/profile_banners/711049177103335424/1556388124/1500x500)
+
+
+<style>
+  .footer {
+    display: none;
+  }
+</style>
