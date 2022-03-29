@@ -1,2 +1,2 @@
-# Harrison-Xu.github.io
+# HarrisonXu.work
 The personal website of Harrison Xu.
