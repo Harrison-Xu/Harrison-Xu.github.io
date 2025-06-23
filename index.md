@@ -28,4 +28,5 @@ Here will display some of my works: [WebDev Playground](https://harrisonxu.work/
   <link rel="shortcut icon" href="/my-favicon/favicon.ico" />
   <link rel="apple-touch-icon" sizes="180x180" href="/my-favicon/apple-touch-icon.png" />
   <link rel="manifest" href="/my-favicon/site.webmanifest" />
+  <script src="https://app.rybbit.io/api/script.js" data-site-id="1152" defer></script>
 </head>
