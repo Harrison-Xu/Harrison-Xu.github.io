@@ -29,4 +29,5 @@ Here will display some of my works: [WebDev Playground](https://harrisonxu.work/
   <link rel="apple-touch-icon" sizes="180x180" href="/my-favicon/apple-touch-icon.png" />
   <link rel="manifest" href="/my-favicon/site.webmanifest" />
   <script src="https://app.rybbit.io/api/script.js" data-site-id="1152" defer></script>
+  <script src="https://cloud.umami.is/script.js" data-website-id="7e5d6a23-be7e-4da8-aac9-680871b5776d" defer></script>
 </head>
